@@ -4,9 +4,9 @@ Fuzzy Matcher: Intelligent String Matching Tool
 This Python-based tool enables intelligent matching between similar but non-identical text entries across datasets. It functions like an enhanced VLOOKUP that can identify and match near-identical entries. The project was developed with assistance from Cursor AI.
 Repository Contents
 
-Fuzzy.py: Initial implementation for specific use cases
-fuzzy_matcher_hybrid.py: Enhanced version with GUI, capable of comparing Excel columns
-Executable file ( FuzzyMatcher.exe): Ready-to-use application for non-technical users ( dropbox link: https://www.dropbox.com/scl/fi/m6pezhylyqzch430ktqqx/FuzzyMatcher.exe?rlkey=dvcs1ol1unh2ikd6905efrl0s&st=uk3nxx6g&dl=0)
+1.) Fuzzy.py: Initial implementation for specific use cases
+2.) fuzzy_matcher_hybrid.py: Enhanced version with GUI, capable of comparing Excel columns
+3.)Executable file ( FuzzyMatcher.exe): Ready-to-use application for non-technical users ( dropbox link: https://www.dropbox.com/scl/fi/m6pezhylyqzch430ktqqx/FuzzyMatcher.exe?rlkey=dvcs1ol1unh2ikd6905efrl0s&st=uk3nxx6g&dl=0)
 
 >> Usage Instructions
 
